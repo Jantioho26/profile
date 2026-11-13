@@ -6,7 +6,7 @@ Software Developer
 
 Frontend-oriented software developer coming from a customer service background.
 
-* 🌍  I'm based in Grand Haven, Michigan US
+* 🌍  I'm based in Grand Haven, Michigan USA
 * 🖥️  See my portfolio at [My Portfolio](http://frontend-portfolio-inky-ten.vercel.app)
 * ✉️  You can contact me at [joyantioho@gmail.com](mailto:joyantioho@gmail.com)
 
